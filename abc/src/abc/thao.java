@@ -13,5 +13,6 @@ public class thao {
     public static void main(String[] args) {
         System.out.println("thao");
 //        sot thaoas
+System.out.println("thao");
     }
 }
