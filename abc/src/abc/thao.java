@@ -10,5 +10,7 @@ package abc;
  * @author DELL
  */
 public class thao {
-    
+    public static void main(String[] args) {
+        
+    }
 }
