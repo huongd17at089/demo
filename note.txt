@@ -1,0 +1,5 @@
+["{\"msg\":\"pong\"}"]
+wss://app.any.run/sockjs/716/mamwjya2/websocket
+["{\"msg\":\"connect\",\"version\":\"1\",\"support\":[\"1\",\"pre2\",\"pre1\"]}"]
+["{\"msg\":\"sub\",\"id\":\"wHnrrgHkBBvKmGubL\",\"name\":\"publicTasks\",\"params\":[{\"isPublic\":true,\"hash\":\"\",\"runtype\":[],\"verdict\":[],\"ext\":[],\"tag\":\"\",\"significant\":false,\"ip\":\"\",\"fileHash\":\"\",\"mitreId\":\"\",\"sid\":0,\"skip\":0,\"limit\":50}]}"]
+["{\"msg\":\"method\",\"method\":\"publicTasksCounter\",\"params\":[{\"isPublic\":true,\"hash\":\"\",\"runtype\":[],\"verdict\":[],\"ext\":[],\"tag\":\"\",\"significant\":false,\"ip\":\"\",\"fileHash\":\"\",\"mitreId\":\"\",\"sid\":0,\"skip\":0,\"limit\":50}],\"id\":\"5\"}"]
