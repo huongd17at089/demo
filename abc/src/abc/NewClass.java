@@ -10,5 +10,7 @@ package abc;
  * @author Huong
  */
 public class NewClass {
-    
+    public static void main(String[] args) {
+        
+    }
 }
